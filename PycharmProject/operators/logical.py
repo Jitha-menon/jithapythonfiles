@@ -1,0 +1,6 @@
+#AND
+#OR
+#EXOR
+print(3&4)
+print(8|4)
+print(3^4)
