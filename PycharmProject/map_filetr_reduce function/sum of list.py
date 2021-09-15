@@ -1,3 +1,3 @@
-lst=[2,4,6]
+lst=[12,15,3,10]
 total =sum(lst)
-print()
+print(total)
